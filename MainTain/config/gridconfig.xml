@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grid>
+    <columns header="地区" width="120" dataIndex="area" type="string" defaultvalue="null"/>
+    <columns header="省份" width="120" dataIndex="province" type="string" defaultvalue="null"/>
+    <columns header="公司" width="120" dataIndex="company" type="string" defaultvalue="null"/>
+    <columns header="风场" width="120" dataIndex="wturstation" type="string" defaultvalue="null"/>
+    <columns header="电压等级" width="100" dataIndex="vlevel" type="float" defaultvalue="0"/>
+    <columns header="装机容量" width="100" dataIndex="fRatedCapacity" type="float" defaultvalue="0"/>
+    <columns header="送出线路">
+        <column header="回数" width="100" dataIndex="outLineNum" type="int" defaultvalue="0"/>
+        <column header="长度" width="100" dataIndex="outLineLen" type="float" defaultvalue="0"/>
+        <column header="电压等级" width="100" dataIndex="outLineVLevl" type="float" defaultvalue="0"/>
+    </columns>
+    <columns header="集电线路">
+        <column header="回数" width="100" dataIndex="collectLineNum" type="int" defaultvalue="0"/>
+        <column header="长度" width="100" dataIndex="collectLineLen" type="float" defaultvalue="0"/>
+        <column header="电压等级" width="100" dataIndex="collectLineVLevel" type="float" defaultvalue="0"/>
+    </columns>
+    <columns header="主变台数" width="100" dataIndex="transNum" type="int" defaultvalue="0"/>
+    <columns header="主变名称" width="100" dataIndex="transName" type="string" defaultvalue="null"/>
+    <columns header="主变容量" width="100" dataIndex="transCapacity" type="float" defaultvalue="0"/>
+</grid>

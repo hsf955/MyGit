@@ -1,0 +1,902 @@
+[
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933343233",
+                        "stationoid": "3096224745521154",
+                        "text": "黑龙江桦南",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933408769",
+                        "stationoid": "3096224745652226",
+                        "text": "黑龙江富强",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933474305",
+                        "stationoid": "3096224745783297",
+                        "text": "黑龙江太阳山",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933539841",
+                        "stationoid": "3096224745586690",
+                        "text": "黑龙江晨光",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933605377",
+                        "stationoid": "3096224745455618",
+                        "text": "黑龙江桦川",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933670913",
+                        "stationoid": "3096224745717762",
+                        "text": "黑龙江海林",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954600961",
+                "text": "黑龙江公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474976841729",
+        "text": "黑龙江省"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930328577",
+                        "stationoid": "3096224744931329",
+                        "text": "赤峰达里",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930394113",
+                        "stationoid": "3096224744996865",
+                        "text": "赤峰道德",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930459649",
+                        "stationoid": "3096224745259009",
+                        "text": "赤峰如德",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930525185",
+                        "stationoid": "3096224745062401",
+                        "text": "赤峰西场",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930590721",
+                        "stationoid": "3096224744734729",
+                        "text": "赤峰查干哈达",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930656257",
+                        "stationoid": "3096224744865794",
+                        "text": "赤峰大水菠萝",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930131971",
+                        "stationoid": "3096224745193473",
+                        "text": "赤峰塞罕坝",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930197507",
+                        "stationoid": "3096224744800264",
+                        "text": "赤峰东山",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930263043",
+                        "stationoid": "3096224745127937",
+                        "text": "赤峰大黑山",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949953421314",
+                "text": "赤峰公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930721793",
+                        "stationoid": "3096224743948297",
+                        "text": "通辽扎鲁特",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930787329",
+                        "stationoid": "3096224746897410",
+                        "text": "通辽霍林河",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930852865",
+                        "stationoid": "3096224747356161",
+                        "text": "通辽兴盛",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949953486851",
+                "text": "通辽公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930983937",
+                        "stationoid": "3096224746766338",
+                        "text": "巴盟图古日格",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931049473",
+                        "stationoid": "3096224746700802",
+                        "text": "巴盟那仁宝力格",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931115009",
+                        "stationoid": "3096224746635266",
+                        "text": "巴盟别力奇",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949953617921",
+                "text": "巴盟公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931246081",
+                        "stationoid": "3096224744013831",
+                        "text": "兴安盟太和",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931311617",
+                        "stationoid": "3096224744079368",
+                        "text": "兴安盟兴牧",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949953683457",
+                "text": "兴安盟公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931573762",
+                        "stationoid": "3096224747028483",
+                        "text": "包头怀朔",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949953748993",
+                "text": "包头公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931180546",
+                        "stationoid": "3096224744210440",
+                        "text": "扎罗木得",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949953814529",
+                "text": "呼伦贝尔公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931377154",
+                        "stationoid": "3096224746962948",
+                        "text": "呼市大元山",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949953880065",
+                "text": "呼和浩特公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424930918402",
+                        "stationoid": "3096224744407049",
+                        "text": "锡盟多伦",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931442689",
+                        "stationoid": "3096224744341511",
+                        "text": "锡盟巴音塔拉",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931508225",
+                        "stationoid": "3096224746831874",
+                        "text": "锡盟辉腾梁",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949953552387",
+                "text": "锡盟公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474976710658",
+        "text": "内蒙古自治区"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933736449",
+                        "stationoid": "3096224743882760",
+                        "text": "朝阳公营子",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933801985",
+                        "stationoid": "3096224743817223",
+                        "text": "朝阳石营子",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933867521",
+                        "stationoid": "3096224746307585",
+                        "text": "朝阳双庙",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933933057",
+                        "stationoid": "3096224746373122",
+                        "text": "朝阳中三家",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933998593",
+                        "stationoid": "3096224746438658",
+                        "text": "朝阳小塔子",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954666497",
+                "text": "朝阳公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424934064129",
+                        "stationoid": "3096224745324547",
+                        "text": "大连海派",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954732033",
+                "text": "海派公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474976776193",
+        "text": "辽宁省"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933277697",
+                        "stationoid": "3096224746110978",
+                        "text": "吉林洮南",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954535425",
+                "text": "吉林风力发电公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424934129665",
+                        "stationoid": "3096224744275976",
+                        "text": "吉林向阳",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954797569",
+                "text": "向阳公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424934195201",
+                        "stationoid": "3096224748142597",
+                        "text": "厂站层次 62",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954863105",
+                "text": "中电新能源公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424934260738",
+                        "stationoid": "3096224746110978",
+                        "text": "吉林大通",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954928641",
+                "text": "中电发电公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474976907265",
+        "text": "吉林省"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931770371",
+                        "stationoid": "3096224744538119",
+                        "text": "山东东营",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931835905",
+                        "stationoid": "3096224744603656",
+                        "text": "山东平度",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931901441",
+                        "stationoid": "3096224744472585",
+                        "text": "山东文登",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931966977",
+                        "stationoid": "3096224747159554",
+                        "text": "山东六汪",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932032513",
+                        "stationoid": "3096224744669191",
+                        "text": "山东莱州",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932098049",
+                        "stationoid": "3096224747290626",
+                        "text": "山东驿道",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931639299",
+                        "stationoid": "3096224747094019",
+                        "text": "山东花园",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424931704835",
+                        "stationoid": "3096224747225090",
+                        "text": "山东汪疃",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949953945601",
+                "text": "山东公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474976972801",
+        "text": "山东省"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932163585",
+                        "stationoid": "3096224747618305",
+                        "text": "山西利民",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932229121",
+                        "stationoid": "3096224747683841",
+                        "text": "山西乌登山",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932294657",
+                        "stationoid": "3096224747749377",
+                        "text": "山西红山口",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932360193",
+                        "stationoid": "3096224747814913",
+                        "text": "山西密马鬓梁",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932425729",
+                        "stationoid": "3096224747880449",
+                        "text": "山西兴和航天",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954011137",
+                "text": "山西分公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474977038337",
+        "text": "山西省"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932491265",
+                        "stationoid": "3096224746176514",
+                        "text": "三门峡鞍子山",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932556801",
+                        "stationoid": "3096224746242050",
+                        "text": "三门峡清源",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954076673",
+                "text": "三门峡公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474977103873",
+        "text": "河南省"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932622337",
+                        "stationoid": "3096224748077057",
+                        "text": "陕西王家湾",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954142209",
+                "text": "陕西公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474977169409",
+        "text": "陕西省"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932687873",
+                        "stationoid": "3096224745848833",
+                        "text": "甘肃昌马",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932753409",
+                        "stationoid": "3096224745914369",
+                        "text": "甘肃景泰",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932818945",
+                        "stationoid": "3096224745979905",
+                        "text": "甘肃玉门",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954207745",
+                "text": "甘肃分公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474977234945",
+        "text": "甘肃省"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932884481",
+                        "stationoid": "3096224747487233",
+                        "text": "宁夏太阳山一期",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424932950017",
+                        "stationoid": "3096224747552769",
+                        "text": "宁夏太阳山二三期",
+                        "wturstationoid": "0"
+                    },
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933015553",
+                        "stationoid": "3096224747421697",
+                        "text": "宁夏灵武",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954273281",
+                "text": "宁夏公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474977300481",
+        "text": "宁夏回族自治区"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933081089",
+                        "stationoid": "3096224746569730",
+                        "text": "云南朗目山",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954338817",
+                "text": "云南公司"
+            },
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933146625",
+                        "stationoid": "3096224746504195",
+                        "text": "云南罗平山",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954404353",
+                "text": "云南分公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474977366017",
+        "text": "云南省"
+    },
+    {
+        "checked": true,
+        "children": [
+            {
+                "checked": true,
+                "children": [
+                    {
+                        "checked": true,
+                        "leaf": true,
+                        "level": 3,
+                        "oid": "844424933212161",
+                        "stationoid": "3096224744144906",
+                        "text": "广东岭门",
+                        "wturstationoid": "0"
+                    }
+                ],
+                "leaf": false,
+                "level": 2,
+                "oid": "562949954469889",
+                "text": "广东公司"
+            }
+        ],
+        "leaf": false,
+        "level": 1,
+        "oid": "281474977431553",
+        "text": "广东省"
+    }
+]

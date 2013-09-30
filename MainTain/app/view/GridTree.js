@@ -1,0 +1,9 @@
+Ext.define('Pandora.view.GridTree',{
+    extend:'Nr.tree.CheckPanel',
+    alias:'widget.gridtree',
+    border:false,
+    title:'按电网检索',
+    header:true,
+    checked:true,
+    store:'GridStore'
+});
